@@ -1,0 +1,5 @@
+yang ga bener
+
+riwayat pemesanan = riwayat.html	button pesan lagi?
+pembayaran = pembayaran.html		tapi belum link bayarnya
+tentang kami = tentangkami.html //responsive gambar	reponsive?
