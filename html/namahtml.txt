@@ -1,0 +1,19 @@
+HOT PROMO = index.html
+MENU = menu.html
+POIN = poin.html
+TENTANG KAMI = about.html
+Daftar/register = daftar.html
+Masuk/login = masuk.html
+paymen/pay = pembayaran.html
+Riwayat Pemesanan = riwayat.html
+Profile = profile.html
+Checkout = checkout.html
+
+
+yang beres dari aku:
+
+riwayat pemesanan = riwayat.html
+masuk = masuk.html //ada bahasa inggrisnya
+daftar = daftar.html ///ada bahasa inggrisnya
+pembayaran = pembayaran.html
+tentang kami = tentangkami.html //responsive gambar
